@@ -1,0 +1,2 @@
+# coinwebcc
+CoinWeb Crypto-Currency
