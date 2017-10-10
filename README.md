@@ -1,6 +1,6 @@
-# CryptoCompare.com real time CryptoCurrency list with vuejs (Wordpress plugin)
+### CryptoCompare.com real time CryptoCurrency list with vuejs (Wordpress plugin)
 
-# === Plugin Name ===
+### === Plugin Name ===
     Contributors: yasinkuyu
     Donate link: http://coin.web.tr/
     Tags: bitcoin, altcoin, crypto currency
@@ -11,15 +11,15 @@
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-# == Description ==
+### == Description ==
 
     Bitcoin and crypto money market values and detailed information
 
-# == Description(TR) ==
+### == Description(TR) ==
 
     Bitcoin ve kripto para piyasa değerleri ve detaylı bilgiler.
 
-# == Installation ==
+### == Installation ==
 
     This section describes how to install the plugin and get it working.
 
