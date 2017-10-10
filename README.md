@@ -32,3 +32,6 @@
     Support: https://github.com/yasinkuyu/coinwebcc/issues
 
     Wordpress eklenti talepleri: http://yasinkuyu.net/iletisim
+        
+[Bitcoin](http://coin.web.tr/)
+
