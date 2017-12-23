@@ -2,7 +2,7 @@
 
 ### === Plugin Name ===
     Contributors: yasinkuyu
-    Donate link: http://coin.web.tr/
+    Donate link: http://coinekonomi.com/
     Tags: bitcoin, altcoin, crypto currency
     Requires at least: 3.0.1
     Tested up to: 3.4
@@ -33,5 +33,5 @@
 
     Wordpress eklenti talepleri: http://yasinkuyu.net/iletisim
         
-[Bitcoin](http://coin.web.tr/)
+[Bitcoin](http://coinekonomi.com/)
 
