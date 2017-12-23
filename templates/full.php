@@ -36,6 +36,6 @@
 	<div><?php esc_html_e( '* Veriler 1 dakika arayla güncellenmektedir.', 'webcoincc' ); ?></div>
 
 	<?php // Please don't remove. Thanks ?>
-	<a href="http://coin.web.tr" title="Bitcoin" style="font-size:10px; color:#ccc;"><?php esc_html_e( 'Bitcoin', 'webcoincc' ); ?></a>
+	<a href="http://coinekonomi.com" title="Bitcoin" style="font-size:10px; color:#ccc;"><?php esc_html_e( 'Bitcoin', 'webcoincc' ); ?></a>
 
 </div>
